@@ -1,13 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Dougklassen.Dynamo.HelloNode
+namespace HelloNode
 {
     public class HelloNode
     {
+        /// <summary>
+        /// Generates a hello world message
+        /// </summary>
+        /// <returns>The hello world message</returns>
+        /// <search>sandbox, hello world</search>
         public static String HelloMessage()
         {
             String msg = "Hello Dynamo!";
