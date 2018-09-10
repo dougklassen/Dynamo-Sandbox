@@ -1,0 +1,24 @@
+﻿{
+	"license":"MIT",
+	"file_hash":null,
+	"name":"HelloNodeModel",
+	"version":"1.0.0",
+	"description":"First custom node using NodeModel",
+	"group":"DougKlassen",
+	"keywords":[
+		"NodeModel",
+		"Doug Klassen",
+		"Hello World"],
+	"dependencies":[],
+	"contents":"Hello World node",
+	"engine_version":"1.3.2",
+	"engine":"dynamo",
+	"engine_metadate":"",
+	"site_url":"",
+	"repository_url":"",
+	"contains_binaries":true,
+	"node_libraries":[
+		"NodeModelSandbox, Version=1.0.0, Culture=neutral, PublicKeyToken=null",
+		"NodeModelSandboxFunctions, Version=1.0.0, Culture=neutral, PublicKeyToken=null"
+	]
+}

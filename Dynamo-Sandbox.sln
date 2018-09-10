@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroTouchSandbox", "ZeroTou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeModelSandbox", "NodeModelSandbox\NodeModelSandbox.csproj", "{750CAF9C-B972-492B-93E4-3E6697A58551}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeModelSandboxFunctions", "NodeModelSanboxFunctions\NodeModelSandboxFunctions.csproj", "{5EC18DB1-C10E-48A2-94DD-8562393D5191}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{750CAF9C-B972-492B-93E4-3E6697A58551}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{750CAF9C-B972-492B-93E4-3E6697A58551}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{750CAF9C-B972-492B-93E4-3E6697A58551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC18DB1-C10E-48A2-94DD-8562393D5191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC18DB1-C10E-48A2-94DD-8562393D5191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC18DB1-C10E-48A2-94DD-8562393D5191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC18DB1-C10E-48A2-94DD-8562393D5191}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
